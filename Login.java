@@ -4,8 +4,8 @@ import java.awt.event.*;
 import java.util.Arrays;
 
 public class Login {
-  String username = "nadya";
-  char[] password = "pricha".toCharArray();
+  String username = "alif";
+  char[] password = "alif".toCharArray();
   String message = " ";
 
   JTextField inputUsername;
